@@ -10,11 +10,12 @@
 body {
   font-family: 'Lato', sans-serif;
   font-weight: 300;
+  background-image: url("../images/MM.jpg");
 }
 
 h2 {
   color: #BCBBBB;
-  font-weight: bold;   
+  font-weight: bold;
 }
 
 h3 {
@@ -32,7 +33,7 @@ p {
 }
 
 .text-muted {
-  color: purple; 
+  color: purple;
 }
 
 .text-thin {
